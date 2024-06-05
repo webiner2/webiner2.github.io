@@ -215,7 +215,8 @@ margin-left: 5.5%;
     text-align: center;
     margin-top: 0;
     width: 50px;
- 
+ box-shadow: 0px 0px 3px white;
+    -webkit-box-shadow: 0px 0px 3px white;
     float: right;
     margin-right: 10px;
     border: none;
