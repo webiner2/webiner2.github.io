@@ -209,14 +209,15 @@ margin-left: 5.5%;
     background-color: transparent;
 }.the-cancel-button button{
     height: 50px;
+    box-sizing:border-box;
     text-align: center;
-    margin-top: none;
+    margin-top: 0;
     width: 50px;
     box-shadow: 0px 0px 3px white;
     float: right;
     margin-right: 10px;
     border: none;
-    background-color: transparent;
+    background-color: yellow;
     color: white;
     font-family: sans-serif;
     font-size: 30px;
