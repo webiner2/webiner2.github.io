@@ -8,7 +8,7 @@
 }
 .header-nav-right{
  background-color: #292059;
- height: 80px;
+ height: 100px;
  margin-top: 10px;
  border-radius: 20px;
  color:white;
@@ -177,6 +177,7 @@
 }
 .header-nav-left{
  background-color: white;
+
  width: 22%;
  height: 100%;
  margin-top: 10px;
@@ -192,9 +193,9 @@ height: 600px;
 margin-left: 5.5%;
 }
 .the-logo-nav0{
- margin-left: 0;
-} .the-logo-nav0.img{
-    margin-left: 26%;
+ margin-left:26%;
+} .the-logo-nav0.img img{
+   margin: 26%;
 }
 .the-cancel-button{
     display: none;
@@ -282,7 +283,7 @@ margin-left: 5.5%;
     .header-nav-right{
         width: 100%;
         background-color: #292059;
-        height: 80px;
+        height: 100px;
         margin-top: 10px;
         border-radius: 20px;
         color:white;
@@ -425,6 +426,9 @@ margin-left: 5.5%;
         font-size: 19px;
         font-family: sans-serif;
         color: rgb(69, 68, 68);
+    }
+    .the-logo-nav0{
+        margin: 0;
     }
     .the-logo-nav0 .img {
         background-color: transparent;
